@@ -35,7 +35,7 @@ The report covers five analytical areas:
 
 **Focus:** Customer Base, Transaction Activity, Financial Performance & Banking Trends
 
-![Banking Executive Overview](screenshots/banking-executive-overview.png)
+![Banking Executive Overview](Dashboard/Dashboard1.PNG)
 
 Provides a high-level overview of banking activity and financial performance.
 
@@ -59,7 +59,7 @@ Provides a high-level overview of banking activity and financial performance.
 
 **Focus:** Customer Profiles, Income Distribution, Segments & Banking Behavior
 
-![Customer Demographics & Segmentation](screenshots/customer-demographics-segmentation.png)
+![Customer Demographics & Segmentation](Dashboard/Dashboard2.PNG)
 
 Explores customer characteristics and compares customer groups across demographic and financial categories.
 
@@ -82,7 +82,7 @@ Explores customer characteristics and compares customer groups across demographi
 
 **Focus:** Account Portfolio, Balances, Banking Products & Customer Activity
 
-![Accounts & Product Performance](screenshots/accounts-product-performance.png)
+![Accounts & Product Performance](Dashboard/Dashboard3.PNG)
 
 Examines account activity, banking products, balances, and reported product revenue.
 
@@ -107,7 +107,7 @@ Examines account activity, banking products, balances, and reported product reve
 
 **Focus:** Loan Portfolio, Outstanding Exposure, Interest Rates & Credit Risk
 
-![Loans & Credit Risk](screenshots/loans-credit-risk.png)
+![Loans & Credit Risk](Dashboard/Dashboard4.PNG)
 
 Examines loan portfolio distribution and the risk indicators presented in the report.
 
@@ -131,7 +131,7 @@ Examines loan portfolio distribution and the risk indicators presented in the re
 
 **Focus:** Financial Performance, Target Achievement & Management KPIs
 
-![Revenue & Management](screenshots/revenue-management.png)
+![Revenue & Management](Dashboard/Dashboard5.PNG)
 
 Provides a financial overview of banking products, profitability, and management performance indicators.
 
