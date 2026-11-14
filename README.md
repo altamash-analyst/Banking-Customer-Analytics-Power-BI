@@ -302,11 +302,3 @@ Data Analyst | Excel • Power BI • Python • MySQL
 - **LinkedIn:** https://www.linkedin.com/in/altamash-nizamuddin-a208152a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
-
-## Suggested GitHub Repository Description
-
-Power BI Banking Customer Analytics Dashboard analyzing customer segmentation, transaction activity, banking products, account performance, loan portfolios, credit risk, revenue, and profitability using a synthetic dataset.
-
-## GitHub Topics
-
-`power-bi` `banking-analytics` `customer-analytics` `financial-analytics` `credit-risk-analysis` `loan-portfolio-analysis` `customer-segmentation` `banking-dashboard` `business-intelligence` `data-analytics` `dax` `microsoft-excel` `data-visualization` `Altamash-Analyst`
